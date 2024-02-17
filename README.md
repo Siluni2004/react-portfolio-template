@@ -1,79 +1,57 @@
-![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
+<html>
+ <head>
+  <title>MY PORTFOLIO</title>
+   </head>
+ <html>
+ <body>
+<h1>Siluni Nanayakkara</h1>
+<br><h5>Food technologist</h5>
 
-### Live - https://react-portfolio-template.netlify.app/
-
-### Demo Video - https://www.youtube.com/watch?v=62_HLbx2zLQ&t=9s
-
-### Tutorials
-
-Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
-
-Blog - https://blog.chetanverma.com/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
-
-### Features - 
-
-- Modern Stack (Next.js + TailwindCSS)
-- Minimal Design
-- Easy To Browse
-- Easy To Customize your details With GUI
-- Blog Crud (Create, Read, Update, Delete blog with easy to use UI).
-- Dark Mode
+<br> <p>I am self motivated, positive minded undergraduate and dedicated and resourceful professional with a strong background in Biotechnology. With a keen eye for detail and exceptional organizational skills, I'm consistently delivers high-quality work and thrives in fast-paced environments with possesses excellent communication abilities, both written and verbal, enabling effective collaboration with team members and stakeholders.</p>
 
 
-### Sections
-
-- Header
-- Work
-- Services
-- About
-- Contact
-- Markdown Blog
+<img src="IMG_20240217_134929_243" width="100" height="100">
 
 
-### How To Use
+<h3><i>Educational Qualification </i></h3> 
+<b>Secondary Education</b><br>
 
-- Clone this repo
-- run `yarn`
-- `yarn dev`
+<br>Ordinary level 2019 <br>
+Advanced level 2023 <br>
+Musaeus College Colombo 7 <br>
 
+<br> <b>Higher Education</b> </br>
+<br>
+ <br>BSc (Hons) in Biotechnology At Sri Lanka Institute of Information Technology, Malabe (2023-2027)
 
-### How To Deploy - 
-
-- There are many ways to Deploy this repo.
-- here we are gonna use netlify
-- Login into netlify with github
-- after login select the forked repo or the repo you want to deploy
-- after selecting netlify will automatially deploy your website.
-
-Quickes way to deploy this repo - 
-
-[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
+<h3><i>Work Experience </i></h3> 
 
 
-### How To Contribute - 
+• Quality Assurance at Nestle Lanka Pvt. Ltd, Sri Lanka (2026) <br>
+• Research Scientist at John Keels Research, Sri Lanka (2028 present)<br>
 
-I would be very happy to review your PRs and all the awesome things that you can improve on this portfolio.
+<h3><i>Skills</i></h3> 
 
+• Project Management <br>
+• Public Relations <br>
+• Teamwork <br>
+• Time Management<br>
+• Leadership<br>
+• Effective Communication<br>
 
-### Tech Stack Used - 
-- Next.js
-- TailwindCSS
+<h3><i>Hobbies </i></h3> 
 
+• Spend time researching and experimenting with techniques such as fermentation and bioprocessing in my home laboratory. <br>
+• Trying out new recipes and techniques that incorporate innovative food biotechnology principles <br>
+• Find relaxation and inspiration in nature, often hiking & gardening <br>
 
-### Thanks
+ Extra curricular activitie<h3><i>Extra curricular activities</i></h3> 
+• Member of SLIIT Rotract Club <br>
+• Member of SLIIT Leo Club <br>
+• Member of School Badminton team <br>
 
-If you liked this portfolio template, don't forget to give it a ⭐.
-
-## Awesome Contributors
-[@Aryan3212](https://github.com/Aryan3212) [@achu-krishna](https://github.com/achu-krishna)
-
-## Supporting
-Many hours of hard work have gone into this project. Your support will be very appreciated!
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chetanverma)
-
-
-
-
-
-
+<br>Address - No. 144 /M, Kanduboda, Delgoda </br>
+Phone - (+94) 714 914 689 <br>
+Email - nanayakkarasiluni@gmail.com <br>
+</body>
+</html>
